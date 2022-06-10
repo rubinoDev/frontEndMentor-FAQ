@@ -3,6 +3,8 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge"/>
 </p>
 
+![FAQ](https://user-images.githubusercontent.com/105171818/173121784-bc6410c1-9a88-40df-b17b-d4b1e45aa3c0.png)
+
 ## Challenge from Front End Mentor<br>
 A responsive FAQ web page with a accordion effect 
 ## ✔️ Technologies used : 
