@@ -13,3 +13,6 @@ A responsive FAQ web page with a accordion effect
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172703361-f53520bc-1db4-4a45-af4b-36e797bfe3ba.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172874428-4256946b-2e5f-439f-9ff0-704460c764a7.png"></code>
+
+## Live demo : 
+https://rubinodev.github.io/frontEndMentor-FAQ/
